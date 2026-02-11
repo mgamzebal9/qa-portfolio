@@ -1,4 +1,4 @@
-# qa-portfolio
+# QA Portfolio – Gamze
 Manual QA practice project and SQL exercises
 ## About This Repository
 
